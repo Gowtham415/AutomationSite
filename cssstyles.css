@@ -1,0 +1,16 @@
+body{
+	background-image: url("mainpage.jpg");
+	color: rgba(253,253,244,1);
+	font-family: 'Changa', sans-serif;
+}
+form {
+	line-height: 1.5;
+}
+.PracticeElements{
+	border-style: solid;
+	border-width: 5px;
+	border-color: rgba(70,95,168,0.25);
+	padding: 13px 13px;
+	display: inline-block;
+
+}
